@@ -3,10 +3,10 @@
 
 Email Me 👉 ✉️ **www.arpitamishra11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** "Working on my portfolio website to showcase my latest projects."
+- 🌱 **I’m currently learning:** "Learning a new programming language."
+- 👯 **I’m looking to collaborate on:** "Open-source projects with a positive social or environmental impact."
+- 🤔 **I’m looking for help with:** "Finding a front-end developer to help with UI/UX design for a new application."
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** www.arpitamishra11@gmail.com
 - 😄 **Pronouns:** ARPITA MISHRA
@@ -18,7 +18,7 @@ Email Me 👉 ✉️ **www.arpitamishra11@gmail.com** For Collaboration/Project 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-mishra -11223322) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCuu-ObC3pJZz2hxMiqZWZ5w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.arpitamishra11@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCuu-ObC3pJZz2hxMiqZWZ5w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.arpitamishra11@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
