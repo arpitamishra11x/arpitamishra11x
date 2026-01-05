@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **www.arpitamishra11@gmail.com** For Collaboration/Project 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arpitamishra11x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arpitamishra11x&theme=radical&no-frame=false&no-bg=true&margin-w=6)
 
 
 ## 🌐 Socials:
